@@ -2,10 +2,10 @@
 
 <ul>
  <li>
-    🏫 Estudando no SENAI JANDIRA Desenvolvimento de Sistemas
+    🏫 Estudando no SENAI JANDIRA, Desenvolvimento de Sistemas
  </li>
  <li>
-    🏟 Estudando no ITB BELVAL Informática
+    🏟 Estudando no ITB BELVAL, Informática
  </li>
  <li>   
     📚 Estudando back-end, front-end, banco de dados e interface de dispositivo moveis
