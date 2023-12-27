@@ -1,5 +1,5 @@
 
-<h1 style="color: #61DAFB;">🚀👨‍💻 Luiz Gustavo</h1>
+<h1 style="color: cyan;">🚀👨‍💻 Luiz Gustavo</h1>
 
 <ul>
  <li>
