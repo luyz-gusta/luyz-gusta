@@ -15,7 +15,9 @@
    <p>Ténico em Informática pelo ITB</p>
  </li>
 </ul>
-<div style="display: flex; justify-content: center; gap:5px;">
+
+<div align="center">
+   <div style="display: flex; justify-content: center; gap:5px;">
   <img align="center" alt="Luiz-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +32,7 @@
 </svg>
   <img align="center" alt="Luiz-React" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                             
 </div><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/luyz-gusta">
