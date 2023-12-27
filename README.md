@@ -1,10 +1,20 @@
 
 <h1 style="color: #61DAFB;">🚀👨‍💻 Luiz Gustavo</h1>
 
-<p>
-Desenvolvedor full-stack em busca do primeiro emprego, atuando também na área de desenvolvimento mobile.
-</p>
-
+<ul>
+ <li>
+    <p>Desenvolvedor full-stack em busca do primeiro emprego, atuando também na área de desenvolvimento mobile.</p>
+ </li>
+ <li>
+   <p>E-mail: luizgustavo.sp2020@gmail.com</p>
+ </li>
+ <li>
+   <p>Ténico em Desenvolvimento de Sistema pelo Senai de Jandira</p>
+ </li>
+ <li>
+   <p>Ténico em Informática pelo ITB</p>
+ </li>
+</ul>
 <div style="display: flex; justify-content: center; gap:5px;">
   <img align="center" alt="Luiz-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
