@@ -1,6 +1,6 @@
 
-# 🚀👨‍💻 Hello! My name is Luiz Gustavo !
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&random=false&width=435&lines=Welcome+to+my+Github+profile+!)](https://git.io/typing-svg)
+# 🚀👨‍💻 Welcome to my github profile !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&random=false&width=435&lines=console.log('Hello!+My+name+is+Luiz!'))](https://git.io/typing-svg)
 
 ## Sobre Mim
 - Desenvolvedor full-stack e mobile
