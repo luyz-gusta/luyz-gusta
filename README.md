@@ -1,9 +1,9 @@
 
 # 🚀👨‍💻 Welcome to my github profile !
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&random=false&width=435&lines=console.log('Hello!+My+name+is+Luiz!'))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&random=false&width=435&lines=console.log('Welcome!+My+name+is+Luiz!'))](https://git.io/typing-svg)
 
 ## Sobre Mim
-- Desenvolvedor full-stack e mobile
+- Desenvolvedor full-stack
 - E-mail: luizgustavo.sp2020@gmail.com
 - Ténico em Desenvolvimento de Sistema pelo Senai de Jandira
 - Ténico em Informática pelo ITB
